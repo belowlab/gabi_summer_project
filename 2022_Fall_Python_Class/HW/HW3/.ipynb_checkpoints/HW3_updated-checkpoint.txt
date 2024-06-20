@@ -1,0 +1,14 @@
+
+
+On brightspace, you should find a file called "Patient_FBG_2021". This file has FBG (fasting blood glucose) values for 200 subjects across three years. For this assignmnet you need to write a program that finds the average FBG for each year. Your program should read in the file and write out the answer to a ".txt". You will also need to include at least one function within your script.
+
+
+Your output should look like this (note that these are not the actual answers):
+
+Average FBG for Year_1:    121
+Average FBG for Year_2:    130
+Average FBG for Year_3:    107
+
+Please make sure to submit both your script and the output .txt file to brightspace.
+
+
